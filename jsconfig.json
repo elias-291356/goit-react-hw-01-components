@@ -2,5 +2,8 @@
   "compilerOptions": {
     "baseUrl": "src"
   },
-  "include": ["src"]
+  "include": [
+    "src",
+    "node_modules/write-file-atomic/wrappy"
+  ]
 }
