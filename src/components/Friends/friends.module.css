@@ -1,0 +1,18 @@
+.friendList {
+  display: flex;
+  align-items: center;
+  list-style: none;
+  border: 2px solid black;
+  padding-left: 0px;
+}
+
+.itemFriend {
+  width: 200px;
+  height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  row-gap: 10px;
+
+}

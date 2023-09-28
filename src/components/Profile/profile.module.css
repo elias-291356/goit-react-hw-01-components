@@ -1,7 +1,8 @@
-.Profile {
-  color: red;
+.avatar {
+  width: 200px;
+  height: 200px;
 }
 
-.label {
-  color: red;
+.profile {
+  width: 300px;
 }
